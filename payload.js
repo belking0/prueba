@@ -1,1 +1,2 @@
-alert("XSS ejecutado desde evalScripts");
+document.body.style.background = "black";
+alert("XSS ejecutado correctamente desde evalScripts!");
